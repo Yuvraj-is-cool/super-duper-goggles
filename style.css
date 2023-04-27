@@ -1,0 +1,18 @@
+.copy_right_footer{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:rgb(83, 244, 83);
+    line-height:3;
+    text-align:center;
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:10px 10px 10px rgb(61, 252, 80);
+}
+h3{
+    color:white;
+    background-color: rgb(83,244,83);
+}
